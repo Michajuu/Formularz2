@@ -1,0 +1,55 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Candara;
+}
+
+.tytul {
+    color: black;
+    font-size: 50px;
+    width:50%;
+}
+
+.nrpytania {
+    font-size: 30px;
+    color: red;
+    width:50%;
+}
+.pytanie {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    width:50%;
+    
+}
+
+.odpowiedz {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    width:50%;
+}
+.dol {
+    background-color: gray;
+   
+
+}
+a:link
+{
+    
+    color: black;
+    text-decoration: none;
+}
+
+a:visited
+{
+    
+    color: black;
+    text-decoration: none;
+}
+
+a:hover
+{
+    
+    color: red;
+    text-decoration: none;
+}
